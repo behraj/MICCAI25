@@ -1,2 +1,2 @@
-# MICCAI25
-This repository include code for our MICCAI paper.
+# StaRFM code
+This repository include code for our StaRFM paper.
